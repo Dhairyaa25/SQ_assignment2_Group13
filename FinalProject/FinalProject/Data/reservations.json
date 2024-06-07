@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "CarId": 1,
+    "UserName": "John Doe",
+    "ContactInfo": "john@example.com",
+    "ReservationDateTime": "2024-04-10T10:00:00"
+  },
+  {
+    "Id": 2,
+    "CarId": 2,
+    "UserName": "Jane Smith",
+    "ContactInfo": "jane@example.com",
+    "ReservationDateTime": "2024-04-12T15:00:00"
+  },
+  {
+    "Id": 0,
+    "CarId": 1,
+    "UserName": "khdwk",
+    "ContactInfo": "qdw",
+    "ReservationDateTime": "0001-01-01T00:00:00"
+  }
+]

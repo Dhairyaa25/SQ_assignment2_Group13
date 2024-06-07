@@ -1,0 +1,18 @@
+﻿using Microsoft.AspNetCore.Mvc.RazorPages;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Numerics;
+using System.Reflection;
+
+@page
+@model ConfirmationModel
+@{
+    ViewData["Title"] = "Confirmation";
+}
+
+< h1 > Reservation Confirmed! </ h1 >
+< p > You have successfully reserved @Model.ReservedCar.Brand - @Model.ReservedCar.Model</p>
+<p>Name: @Model.UserName </ p >
+< p > Phone: @Model.PhoneNumber </ p >
+< p > Reservation Date / Time: @Model.ReservationDateTime </ p >
+
+< a asp - page = "/" > Go Back to Home Page</a>

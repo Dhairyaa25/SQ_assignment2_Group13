@@ -1,0 +1,34 @@
+﻿using CarReservationSystem.Pages;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Reflection.Emit;
+using System.Reflection;
+using System.Xml.Linq;
+
+@page
+@model ReserveModel
+@{
+    ViewData["Title"] = "Reserve";
+}
+
+< h1 > Reserve a Car</h1>
+
+<form method = "post" >
+    < label for="car">Select a Car:</ label >
+    < select id = "car" name = "car" >
+        @foreach(var car in Model.AvailableCars)
+        {
+            < option value = "@car.Model" > @car.Brand - @car.Model </ option >
+        }
+    </ select >
+
+    < label for= "name" > Name:</ label >
+    < input type = "text" id = "name" name = "name" required >
+
+    < label for= "phone" > Phone:</ label >
+    < input type = "tel" id = "phone" name = "phone" required >
+
+    < label for= "reservationDateTime" > Reservation Date / Time:</ label >
+    < input type = "datetime-local" id = "reservationDateTime" name = "reservationDateTime" required >
+
+    < button type = "submit" > Reserve </ button >
+</ form >

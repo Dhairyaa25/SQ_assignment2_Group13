@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\yuvraj\yuvraj\obj\Debug\net8.0\yuvraj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\yuvraj\yuvraj\obj\Debug\net8.0\yuvraj.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\yuvraj\yuvraj\obj\Debug\net8.0\yuvraj.AssemblyInfo.cs
+C:\Users\Admin\source\repos\yuvraj\yuvraj\obj\Debug\net8.0\yuvraj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\yuvraj\yuvraj\obj\Debug\net8.0\yuvraj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\yuvraj\yuvraj\obj\Debug\net8.0\yuvraj.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\yuvraj\yuvraj\obj\Debug\net8.0\yuvraj.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\yuvraj\yuvraj\obj\Debug\net8.0\yuvraj.csproj.AssemblyReference.cache

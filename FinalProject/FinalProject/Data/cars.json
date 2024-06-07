@@ -1,0 +1,18 @@
+[
+    {
+        "Id": 1,
+        "Brand": "TESLA",
+        "Model": "Y",
+        "ImageUrl": "/images/TESLA Y.jpg",
+        "Description": "Tesla has an autopilot system, OTA software updates, falcon doors, supercharging, key card access, plaid mode, etc., among its enhanced standout features",
+        "ReservedCount": 0
+    },
+    {
+        "Id": 2,
+        "Brand": "TOYOTA",
+        "Model": "Camry",
+        "ImageUrl": "/images/Toyota Carmy.jpg",
+        "Description": "All Camrys come with Toyota's Safety Sense 2.5+. It's an impressive suite of standard driver assistance features such as adaptive cruise control, automatic emergency braking and lane keeping assistance.",
+        "ReservedCount": 0
+    }
+]

@@ -1,0 +1,35 @@
+﻿@page
+@model assignment_3.Pages.IndexModel
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <h1>Welcome to @Model.StoreName</h1>
+            <p>Address: @Model.Address</p>
+            <p>Phone: @Model.PhoneNumber</p>
+        </div>
+        <div class="col-md-4 text-right">
+            <a asp-page="/Login" class="btn btn-primary mr-2">Login</a>
+            <a asp-page="/Reservations" class="btn btn-secondary">Show Reservations</a>
+        </div>
+    </div>
+
+    <h2>Our Cars Collections</h2>
+
+    <div class="row">
+        @foreach (var car in Model.AvailableCars)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img class="card-img-top" src="@car.ImageUrl" alt="@car.Brand @car.Model" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">@car.Brand - @car.Model</h3>
+                        <p class="card-text">@car.Description</p>
+                        <p>Reserved Count: @car.ReservedCount</p>
+                        <a asp-page="/Reserve" asp-route-carId="@car.Id" class="btn btn-primary">Make a Reservation</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

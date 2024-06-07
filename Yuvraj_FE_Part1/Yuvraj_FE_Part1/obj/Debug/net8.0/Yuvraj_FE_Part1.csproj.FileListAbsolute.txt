@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Yuvraj_FE_Part1\Yuvraj_FE_Part1\obj\Debug\net8.0\Yuvraj_FE_Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Yuvraj_FE_Part1\Yuvraj_FE_Part1\obj\Debug\net8.0\Yuvraj_FE_Part1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Yuvraj_FE_Part1\Yuvraj_FE_Part1\obj\Debug\net8.0\Yuvraj_FE_Part1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Yuvraj_FE_Part1\Yuvraj_FE_Part1\obj\Debug\net8.0\Yuvraj_FE_Part1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Yuvraj_FE_Part1\Yuvraj_FE_Part1\obj\Debug\net8.0\Yuvraj_FE_Part1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\Yuvraj_FE_Part1\Yuvraj_FE_Part1\obj\Debug\net8.0\Yuvraj_FE_Part1.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\Yuvraj_FE_Part1\Yuvraj_FE_Part1\obj\Debug\net8.0\Yuvraj_FE_Part1.RazorAssemblyInfo.cs

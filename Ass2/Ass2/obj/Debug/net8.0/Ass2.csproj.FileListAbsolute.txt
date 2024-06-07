@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Ass2\Ass2\bin\Debug\net8.0\Ass2.exe
+C:\Users\Admin\source\repos\Ass2\Ass2\bin\Debug\net8.0\Ass2.deps.json
+C:\Users\Admin\source\repos\Ass2\Ass2\bin\Debug\net8.0\Ass2.runtimeconfig.json
+C:\Users\Admin\source\repos\Ass2\Ass2\bin\Debug\net8.0\Ass2.dll
+C:\Users\Admin\source\repos\Ass2\Ass2\bin\Debug\net8.0\Ass2.pdb
+C:\Users\Admin\source\repos\Ass2\Ass2\obj\Debug\net8.0\Ass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Ass2\Ass2\obj\Debug\net8.0\Ass2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Ass2\Ass2\obj\Debug\net8.0\Ass2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Ass2\Ass2\obj\Debug\net8.0\Ass2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ass2\Ass2\obj\Debug\net8.0\Ass2.dll
+C:\Users\Admin\source\repos\Ass2\Ass2\obj\Debug\net8.0\refint\Ass2.dll
+C:\Users\Admin\source\repos\Ass2\Ass2\obj\Debug\net8.0\Ass2.pdb
+C:\Users\Admin\source\repos\Ass2\Ass2\obj\Debug\net8.0\Ass2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Ass2\Ass2\obj\Debug\net8.0\ref\Ass2.dll

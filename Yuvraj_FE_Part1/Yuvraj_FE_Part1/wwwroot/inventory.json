@@ -1,0 +1,12 @@
+﻿[
+    {
+        "ItemName": "Rose Seeds",
+        "QuantityInStock": 20,
+        "PricePerUnit": 5.75
+    },
+    {
+        "ItemName": "Garden Shovel",
+        "QuantityInStock": 15,
+        "PricePerUnit": 22.50
+    }
+]

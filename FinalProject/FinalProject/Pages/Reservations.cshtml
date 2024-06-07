@@ -1,0 +1,24 @@
+@page
+@model FinalProject.Pages.ReservationsModel
+
+<h1>All Reservations</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Car Model</th>
+            <th>Date/Time</th>
+            <th>User Info</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reservation in Model.Reservations)
+        {
+            <tr>
+                <td>@reservation.CarModel</td>
+                <td>@reservation.ReservationDateTime</td>
+                <td>@reservation.UserName - @reservation.ContactInfo</td>
+            </tr>
+        }
+    </tbody>
+</table>

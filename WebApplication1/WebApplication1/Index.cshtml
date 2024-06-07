@@ -1,0 +1,22 @@
+﻿using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Net;
+using System.Numerics;
+using System.Reflection;
+
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+< h1 > @Model.CarRentalName </ h1 >
+< p > Address: @Model.Address </ p >
+< p > Phone: @Model.PhoneNumber </ p >
+
+< h2 > Available Cars </ h2 >
+< ul >
+    @foreach(var car in Model.AvailableCars)
+    {
+        < li > @car.Brand - @car.Model </ li >
+    }
+</ ul >
